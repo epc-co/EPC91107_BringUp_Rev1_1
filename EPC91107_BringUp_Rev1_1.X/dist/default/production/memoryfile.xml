@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/EPC91107_BringUp_Rev1_1.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>24576</length>
+      <used>64</used>
+      <free>24512</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>269184</length>
+      <used>11337</used>
+      <free>257847</free>
+    </memory>
+  </executable>
+</project>
